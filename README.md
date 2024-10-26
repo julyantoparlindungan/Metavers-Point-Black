@@ -1,2 +1,2 @@
 # Metavers-Point-Black
-studio : :
+studio(1)
